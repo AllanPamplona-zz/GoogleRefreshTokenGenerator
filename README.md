@@ -9,3 +9,5 @@ You need to create a google application with its respective client id and replac
 Next, you just have to run ```npm install & node .```
 
 And then get logged in the browser.
+
+Credits: https://betterprogramming.pub/log-in-with-the-google-oauth-demo-app-9e7d0e801c29
